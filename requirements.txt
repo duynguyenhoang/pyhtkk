@@ -1,0 +1,2 @@
+docxtpl
+xmltodict
